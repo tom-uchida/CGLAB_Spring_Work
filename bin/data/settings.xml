@@ -1,0 +1,15 @@
+<group>
+	<Model_change_>'m' key</Model_change_>
+	<Down_Sampling_Ratio>1</Down_Sampling_Ratio>
+	<Draw_Axis>1</Draw_Axis>
+	<Draw_Frame>1</Draw_Frame>
+	<Change_Draw_Mode_>'0' key</Change_Draw_Mode_>
+	<Disable_Mouse_Input_>'c' key</Disable_Mouse_Input_>
+	<Screen_Shot_>'s' key</Screen_Shot_>
+	<Sphere_Radius>1</Sphere_Radius>
+	<Draw_Sphere>1</Draw_Sphere>
+	<Draw_Eigenvectors>1</Draw_Eigenvectors>
+	<X_:_>0</X_:_>
+	<Y_:_>0</Y_:_>
+	<Z_:_>0</Z_:_>
+</group>
