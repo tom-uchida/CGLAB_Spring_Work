@@ -1,6 +1,10 @@
-# CGLAB_spring_work
-[Interactive Point Cloud Processing Apllication]
+# Interactive Point Cloud Processing Application
 
-https://vimeo.com/265704935
+## Video
+- https://vimeo.com/265704935
 
-# ![sample](bin/data/images/sample.png)
+## Slide
+- https://drive.google.com/file/d/17HP7KHVCLBtaaW1rJQej8O-hgrTZ-_nF/view
+
+## Image
+![sample](bin/data/images/sample.png)
