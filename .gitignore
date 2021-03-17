@@ -1,4 +1,4 @@
-./CGLAB_Work.xcodeproj/
+CGLAB_Work.xcodeproj/
 *.make
 Makefile
 *.plist
