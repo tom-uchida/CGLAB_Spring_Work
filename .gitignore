@@ -1,0 +1,5 @@
+./CGLAB_Work.xcodeproj/
+*.make
+Makefile
+*.plist
+*.xcconfig
